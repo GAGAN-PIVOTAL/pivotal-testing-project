@@ -1,8 +1,0 @@
-Language1.txt
-Language2.txt
-Language3.txt
-Language4.txt
-Language5.txt
-Language7.txt
-Language81.txt
-
